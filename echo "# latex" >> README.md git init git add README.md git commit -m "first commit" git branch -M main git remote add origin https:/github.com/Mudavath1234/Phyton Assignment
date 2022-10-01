@@ -2,9 +2,9 @@
 \documentclass{article}
 \usepackage{minted}
 \usepackage{graphicx}
- \large{ Name: M.Kalyan Kumar}\\
-{\large ID:B191644}\\
-{\large Class: CSE-C3-121}\\
+ \large{ Name: Mr M.Uday Kumar Naik}\\
+{\large ID:B192476}\\
+{\large Class: CSE-C2-022}\\
 \begin{document}
 \begin{minted}{python}
 \Large{
